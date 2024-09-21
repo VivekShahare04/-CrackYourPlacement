@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -40,10 +41,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
