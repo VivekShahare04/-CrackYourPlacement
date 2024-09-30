@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
