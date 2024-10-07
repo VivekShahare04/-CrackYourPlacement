@@ -11,6 +11,7 @@
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -101,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Matrix
 |  |
