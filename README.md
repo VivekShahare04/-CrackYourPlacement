@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 | [0001-two-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -84,6 +86,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
@@ -120,4 +123,5 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
