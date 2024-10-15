@@ -20,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -38,6 +40,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+## Sorting
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
