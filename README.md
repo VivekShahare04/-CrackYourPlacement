@@ -36,6 +36,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bit Manipulation
 |  |
@@ -136,4 +137,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
