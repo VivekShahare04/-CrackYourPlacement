@@ -18,6 +18,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -77,6 +78,7 @@
 | [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
