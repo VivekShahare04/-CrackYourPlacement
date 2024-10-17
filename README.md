@@ -33,6 +33,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
@@ -96,6 +97,7 @@
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
