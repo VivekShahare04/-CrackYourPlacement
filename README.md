@@ -23,6 +23,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
