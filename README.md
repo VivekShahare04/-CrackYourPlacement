@@ -28,6 +28,7 @@
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
