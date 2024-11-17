@@ -201,4 +201,8 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
