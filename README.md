@@ -206,4 +206,16 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0577-employee-bonus) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
