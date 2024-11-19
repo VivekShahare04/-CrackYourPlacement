@@ -57,6 +57,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
+| [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
@@ -110,6 +112,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
+| [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -185,6 +189,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 ## Geometry
 |  |
 | ------- |
