@@ -44,6 +44,7 @@
 | [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -119,6 +120,7 @@
 | [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
