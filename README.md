@@ -30,6 +30,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -198,6 +201,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
