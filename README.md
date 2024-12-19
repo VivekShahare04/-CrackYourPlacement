@@ -69,6 +69,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -232,6 +233,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -242,4 +244,12 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
