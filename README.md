@@ -27,6 +27,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -85,6 +86,7 @@
 | [0724-find-pivot-index](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
