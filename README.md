@@ -117,6 +117,7 @@
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## String
@@ -141,6 +142,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -158,6 +160,7 @@
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
