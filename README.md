@@ -13,6 +13,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0952-word-subsets) |
@@ -223,6 +225,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
