@@ -38,6 +38,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
@@ -119,6 +120,7 @@
 | [0338-counting-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
