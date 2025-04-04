@@ -28,6 +28,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0952-word-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -185,6 +186,7 @@
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
 | ------- |
