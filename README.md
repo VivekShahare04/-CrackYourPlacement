@@ -345,6 +345,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -365,7 +366,12 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
