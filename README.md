@@ -343,11 +343,13 @@
 ## Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -357,6 +359,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
