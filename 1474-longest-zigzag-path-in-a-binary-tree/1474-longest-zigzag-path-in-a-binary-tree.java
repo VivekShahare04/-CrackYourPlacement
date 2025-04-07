@@ -28,7 +28,7 @@ class Solution {
         if(direction){
             return Math.max(helper(root.left,count+1,false),helper(root.right,1,true));
         }else{
-            return Math.max(helper(root.right,count+1,true),helper(root.left,1,false));
+            return Math.max(helper(root.left,1,false),helper(root.right,count+1,true));
         }
     }
 }
