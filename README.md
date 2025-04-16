@@ -37,6 +37,7 @@
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -108,6 +109,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -386,4 +388,8 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
