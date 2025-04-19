@@ -43,6 +43,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -116,6 +117,7 @@
 | [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
