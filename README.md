@@ -182,6 +182,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
