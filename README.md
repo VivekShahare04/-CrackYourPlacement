@@ -65,6 +65,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -367,6 +368,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
