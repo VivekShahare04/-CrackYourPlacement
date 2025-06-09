@@ -62,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -146,6 +147,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0091-decode-ways) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0071-simplify-path) |
