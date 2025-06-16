@@ -331,6 +331,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -417,6 +418,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -425,6 +427,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -453,5 +456,10 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
