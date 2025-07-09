@@ -228,6 +228,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
@@ -406,6 +407,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
@@ -418,6 +420,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
@@ -437,6 +440,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
