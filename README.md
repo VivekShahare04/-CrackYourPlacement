@@ -30,6 +30,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
@@ -166,6 +167,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
