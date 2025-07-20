@@ -28,6 +28,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
@@ -75,6 +76,7 @@
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
@@ -182,6 +184,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -320,6 +323,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
