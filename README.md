@@ -76,6 +76,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
@@ -415,6 +418,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
@@ -509,4 +513,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
