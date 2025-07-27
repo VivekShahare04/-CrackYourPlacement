@@ -77,6 +77,7 @@
 | [0086-partition-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
@@ -259,6 +260,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
@@ -414,6 +416,7 @@
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -436,6 +439,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Tree
 |  |
