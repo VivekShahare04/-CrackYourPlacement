@@ -53,6 +53,7 @@
 | [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
@@ -115,6 +116,7 @@
 | [0338-counting-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2509-minimize-xor](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -438,6 +440,7 @@
 | [0078-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -500,6 +503,7 @@
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Graph
 |  |
 | ------- |
