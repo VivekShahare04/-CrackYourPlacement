@@ -421,6 +421,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0619-biggest-single-number) |
 ## Design
 |  |
 | ------- |
