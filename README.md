@@ -426,6 +426,7 @@
 | [0627-swap-salary](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1174-sales-analysis-iii) |
+| [1301-reformat-department-table](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1301-reformat-department-table) |
 ## Design
 |  |
 | ------- |
