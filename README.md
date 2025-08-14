@@ -261,6 +261,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
