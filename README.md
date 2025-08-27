@@ -75,6 +75,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -555,6 +558,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Merge Sort
 |  |
 | ------- |
