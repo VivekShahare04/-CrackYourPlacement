@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0071-simplify-path) |
@@ -501,6 +503,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0394-decode-string) |
