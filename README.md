@@ -77,6 +77,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
@@ -340,6 +341,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Matrix
 |  |
@@ -404,6 +406,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
@@ -417,6 +420,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -568,6 +572,7 @@
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2122-count-special-quadruplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Graph
 |  |
 | ------- |
