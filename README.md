@@ -297,6 +297,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -354,6 +355,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -615,8 +617,13 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
