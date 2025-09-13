@@ -175,6 +175,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -468,6 +470,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2486-most-frequent-even-element) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
