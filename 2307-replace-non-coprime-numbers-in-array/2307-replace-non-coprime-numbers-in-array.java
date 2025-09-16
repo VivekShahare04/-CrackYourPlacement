@@ -1,0 +1,44 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> replaceNonCoprimes(int[] nums) {
+        Deque<Integer> stack = new ArrayDeque<>();
+        
+        for (int n : nums) {
+            stack.addLast(n); // push at end
+            
+            // keep merging until top 2 are coprime
+            while (stack.size() > 1) {
+                int a = stack.removeLast();
+                int b = stack.removeLast();
+                int g = gcd(a, b);
+                
+                if (g > 1) { 
+                    // merge into LCM and push back
+                    long merged = lcm(a, b, g);
+                    stack.addLast((int) merged);
+                } else {
+                    // put them back if coprime
+                    stack.addLast(b);
+                    stack.addLast(a);
+                    break;
+                }
+            }
+        }
+        return new ArrayList<>(stack);
+    }
+
+    private int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
+    // optimized lcm using precomputed gcd
+    private long lcm(int a, int b, int g) {
+        return (long) a / g * b; 
+    }
+}
