@@ -5,20 +5,20 @@ class Solution {
         Deque<Integer> stack = new ArrayDeque<>();
         
         for (int n : nums) {
-            stack.addLast(n); // push at end
+            stack.addLast(n); 
             
-            // keep merging until top 2 are coprime
+            
             while (stack.size() > 1) {
                 int a = stack.removeLast();
                 int b = stack.removeLast();
                 int g = gcd(a, b);
                 
                 if (g > 1) { 
-                    // merge into LCM and push back
+                   
                     long merged = lcm(a, b, g);
                     stack.addLast((int) merged);
                 } else {
-                    // put them back if coprime
+                    
                     stack.addLast(b);
                     stack.addLast(a);
                     break;
