@@ -59,6 +59,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
+| [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
@@ -166,6 +167,7 @@
 | [1873-longest-nice-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
@@ -463,6 +465,7 @@
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
 ## Quickselect
@@ -505,6 +508,7 @@
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+| [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
 ## Queue
@@ -655,6 +659,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
