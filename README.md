@@ -99,6 +99,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -273,6 +274,7 @@
 | [0091-decode-ways](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0394-decode-string) |
