@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -209,6 +210,7 @@
 | [0070-climbing-stairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
