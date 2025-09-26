@@ -41,6 +41,7 @@
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
@@ -106,6 +107,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
@@ -125,6 +127,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -250,6 +253,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
@@ -438,6 +442,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
