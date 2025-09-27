@@ -47,6 +47,7 @@
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
@@ -376,6 +377,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -468,6 +470,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Heap (Priority Queue)
