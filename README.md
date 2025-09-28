@@ -54,6 +54,7 @@
 | [1006-vowel-spellchecker](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -258,6 +259,7 @@
 | [0649-dota2-senate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
@@ -379,6 +381,7 @@
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -446,6 +449,7 @@
 | [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
