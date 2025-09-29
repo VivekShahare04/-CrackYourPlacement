@@ -56,6 +56,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1813-maximum-erasure-value](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
@@ -233,6 +234,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
