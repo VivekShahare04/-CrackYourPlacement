@@ -74,6 +74,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
@@ -389,6 +390,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
@@ -419,6 +421,7 @@
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
@@ -683,4 +686,8 @@
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
