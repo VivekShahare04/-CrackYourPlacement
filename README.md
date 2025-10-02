@@ -123,6 +123,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -272,6 +273,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -325,6 +327,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
