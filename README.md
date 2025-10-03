@@ -272,6 +272,7 @@
 | [1304-longest-happy-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -400,6 +401,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1642-water-bottles) |
+| [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -509,6 +511,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
+| [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
