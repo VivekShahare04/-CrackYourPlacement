@@ -67,6 +67,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
@@ -276,6 +277,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -516,6 +518,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
