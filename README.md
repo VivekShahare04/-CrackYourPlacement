@@ -32,6 +32,7 @@
 | [0324-wiggle-sort-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -414,6 +415,7 @@
 | [0037-sudoku-solver](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -502,6 +504,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
@@ -635,6 +638,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
