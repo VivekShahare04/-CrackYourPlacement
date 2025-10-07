@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -167,6 +168,7 @@
 | [0036-valid-sudoku](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
@@ -732,4 +734,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
