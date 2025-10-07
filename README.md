@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
@@ -164,6 +165,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
@@ -422,6 +424,7 @@
 | [0036-valid-sudoku](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
