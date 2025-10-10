@@ -100,6 +100,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
@@ -221,6 +222,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
