@@ -104,6 +104,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -152,6 +153,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
@@ -407,6 +410,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -511,6 +515,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
