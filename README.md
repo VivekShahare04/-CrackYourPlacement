@@ -81,6 +81,7 @@
 | [2169-simple-bank-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -355,6 +356,7 @@
 | [2107-find-unique-binary-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -430,6 +432,7 @@
 | [1642-water-bottles](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -449,6 +452,7 @@
 | [0079-word-search](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
