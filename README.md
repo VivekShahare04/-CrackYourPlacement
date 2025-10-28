@@ -561,6 +561,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -735,10 +736,12 @@
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Memoization
 |  |
 | ------- |
