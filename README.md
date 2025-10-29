@@ -268,6 +268,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -738,11 +739,13 @@
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Memoization
 |  |
