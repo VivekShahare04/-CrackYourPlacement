@@ -745,6 +745,7 @@
 | [0820-find-eventual-safe-states](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
