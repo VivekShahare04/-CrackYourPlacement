@@ -749,6 +749,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1738-maximal-network-rank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1738-maximal-network-rank) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
