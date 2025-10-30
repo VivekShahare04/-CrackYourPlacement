@@ -65,6 +65,7 @@
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1813-maximum-erasure-value](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -270,6 +271,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -297,6 +299,7 @@
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1879-maximum-score-from-removing-stones](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
@@ -395,6 +398,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
@@ -497,6 +501,7 @@
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 ## Interactive
 |  |
