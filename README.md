@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0324-wiggle-sort-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
@@ -544,6 +545,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -613,6 +615,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
+| [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2169-simple-bank-system) |
@@ -810,4 +813,12 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
