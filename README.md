@@ -107,6 +107,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -220,6 +221,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -448,6 +450,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3830-find-closest-person) |
 ## Matrix
