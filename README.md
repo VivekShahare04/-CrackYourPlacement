@@ -37,6 +37,7 @@
 | [0324-wiggle-sort-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
@@ -192,6 +193,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
@@ -442,6 +444,7 @@
 | [0070-climbing-stairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
+| [0380-insert-delete-getrandom-o1](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -625,6 +628,7 @@
 | [0146-lru-cache](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2169-simple-bank-system) |
@@ -837,4 +841,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
