@@ -44,6 +44,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
@@ -273,6 +274,7 @@
 | [0338-counting-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
@@ -354,6 +356,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0649-dota2-senate) |
