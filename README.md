@@ -333,6 +333,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
@@ -398,6 +399,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -620,6 +622,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2486-most-frequent-even-element) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
