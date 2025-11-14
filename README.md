@@ -99,6 +99,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
+| [2625-increment-submatrices-by-one](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -245,6 +246,7 @@
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
+| [2625-increment-submatrices-by-one](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -492,6 +494,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
+| [2625-increment-submatrices-by-one](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2625-increment-submatrices-by-one) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
