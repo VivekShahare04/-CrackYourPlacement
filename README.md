@@ -204,6 +204,7 @@
 | [0952-word-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -463,6 +464,7 @@
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
