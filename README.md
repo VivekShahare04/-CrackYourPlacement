@@ -71,6 +71,7 @@
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -438,6 +439,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -528,6 +530,7 @@
 | [0054-spiral-matrix](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2169-simple-bank-system) |
