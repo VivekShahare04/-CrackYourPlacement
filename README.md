@@ -68,6 +68,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -215,6 +216,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1813-maximum-erasure-value) |
@@ -570,6 +572,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1140-distant-barcodes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1140-distant-barcodes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [2117-find-original-array-from-doubled-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -838,6 +841,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
