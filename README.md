@@ -97,6 +97,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
@@ -294,6 +295,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Greedy
@@ -497,6 +499,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2625-increment-submatrices-by-one) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
