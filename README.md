@@ -75,6 +75,7 @@
 | [1833-find-the-highest-altitude](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [1952-minimum-sideway-jumps](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1952-minimum-sideway-jumps) |
 | [2023-design-movie-rental-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2023-design-movie-rental-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -519,6 +520,7 @@
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2288-count-operations-to-obtain-zero) |
