@@ -42,6 +42,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -206,6 +207,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
