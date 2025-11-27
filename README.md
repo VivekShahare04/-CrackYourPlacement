@@ -52,6 +52,7 @@
 | [0518-coin-change-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
+| [0636-exclusive-time-of-functions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
@@ -433,6 +434,7 @@
 | [0394-decode-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
