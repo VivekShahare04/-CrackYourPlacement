@@ -125,6 +125,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3748-sort-matrix-by-diagonals) |
@@ -248,6 +249,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3678-design-task-manager) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -498,6 +500,7 @@
 | [3336-water-bottles-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3830-find-closest-person) |
 ## Matrix
@@ -610,6 +613,7 @@
 | [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
