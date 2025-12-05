@@ -1,18 +1,16 @@
 class Solution {
     public int countPartitions(int[] nums) {
         int n = nums.length;
-        int total=0;
-        for(int num:nums){
-            total += num;
-        }
-        int left=0;
+
+        int leftsum=0;
         int count=0;
-
         for(int i=0;i<n-1;i++){
-            left += nums[i];
-            int right = total - left;
-
-            if((left-right)%2==0){
+            leftsum += nums[i];
+            int rightsum=0;
+            for(int j=i+1;j<n;j++){
+                rightsum += nums[j];
+            }
+            if((rightsum-leftsum)%2==0){
                 count++;
             }
         }
