@@ -62,6 +62,7 @@
 | [0830-largest-triangle-area](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0952-word-subsets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -302,6 +303,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -387,6 +389,7 @@
 | [0800-letter-case-permutation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0952-word-subsets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
