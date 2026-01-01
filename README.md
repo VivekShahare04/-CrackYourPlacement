@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -479,6 +480,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
