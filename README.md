@@ -31,6 +31,7 @@
 | [0198-house-robber](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -261,6 +262,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
