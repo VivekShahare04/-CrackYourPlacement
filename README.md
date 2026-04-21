@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -320,6 +322,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
