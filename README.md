@@ -159,6 +159,7 @@
 | [0874-backspace-string-compare](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -457,6 +458,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -721,6 +723,7 @@
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VivekShahare04/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
